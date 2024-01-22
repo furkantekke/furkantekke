@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm FURKAN TEKKE</h1>
 <h3 align="center">I like taking responsibilities and learning new techniques. After graduating from the university as the first in the department, I stepped into the sector in the field of Business intelligence. I developed Java and Python programs in line with the needs, HR-Stock-Sales etc. dashboards with different tools including planning and realization of DWH-ETL-Visualization processes, TSQL/PLSQL scripts, Rest API. I enjoy challenges and look forward to opportunities where I will be develop my technical skills and vision</h3>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/embed/qgQUggAC3Pfv687qPC">
+<!-- <img align="right" alt="Coding" width="400" src="https://giphy.com/embed/qgQUggAC3Pfv687qPC"> -->
 
 - 🔭 I’m currently working on **Business Intelligence**
 
